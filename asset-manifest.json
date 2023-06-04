@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Stripe/static/css/main.40f715e0.css",
+    "main.js": "/Stripe/static/js/main.b7f135f9.js",
+    "static/media/phone.svg": "/Stripe/static/media/phone.94a7a4fe1f82aed65bc22c10a1c6d6ef.svg",
+    "static/media/logo.svg": "/Stripe/static/media/logo.6ad422bb585e8c12e29343696a1349aa.svg",
+    "static/media/hero.svg": "/Stripe/static/media/hero.acf1e00e9c9a661a4b0a.svg",
+    "index.html": "/Stripe/index.html",
+    "main.40f715e0.css.map": "/Stripe/static/css/main.40f715e0.css.map",
+    "main.b7f135f9.js.map": "/Stripe/static/js/main.b7f135f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40f715e0.css",
+    "static/js/main.b7f135f9.js"
+  ]
+}
